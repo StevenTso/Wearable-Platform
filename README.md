@@ -16,11 +16,11 @@ A modular hardware platform for creating wearable tech containing a bluetooth 4.
 
 2-d view: ![](/Hardware/Media/2d.png)
 
-3-d front: ![](/Hardware/Media/3d-front.png)
+3-d front: ![](/Hardware/Media/3d_front.png)
 
-3-d side: ![](/Hardware/Media/3d-side.png)
+3-d side: ![](/Hardware/Media/3d_side.png)
 
-3-d back: ![](/Hardware/Media/3d-back.png)
+3-d back: ![](/Hardware/Media/3d_back.png)
 
 # Next Steps
 I haven't had the time or funding to actually get this board manufactured. My hope is someone will try to keep this project going as I think this can really go places.
